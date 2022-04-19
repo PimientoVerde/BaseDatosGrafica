@@ -1,0 +1,7 @@
+nodo_inicio,relacion,nodo_fin
+5.1.049,SIRVE_PARA,salon
+5.1.081,SIRVE_PARA,garage
+5.1.049,SIRVE_PARA,trastero
+5.1.045,SIRVE_PARA,dormitorio
+19010101,SIRVE_PARA,'cuarto de baño'
+
